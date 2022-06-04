@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990838959923",
+    "project_id": "progetto-pizzeria-43019",
+    "storage_bucket": "progetto-pizzeria-43019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990838959923:android:95bc486b65d7484a121846",
+        "android_client_info": {
+          "package_name": "com.example.rio_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990838959923-p2547rqqa3hjpfd4n92rsm5gqq01v2hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFe3geU0K0z_ckSLiSRasioLlWuNdk3vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990838959923-p2547rqqa3hjpfd4n92rsm5gqq01v2hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
