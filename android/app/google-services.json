@@ -29,6 +29,13 @@
             {
               "client_id": "990838959923-p2547rqqa3hjpfd4n92rsm5gqq01v2hk.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "990838959923-ufav6sbbhnbbto5l62epc3gb0mqqg3k4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rioGym"
+              }
             }
           ]
         }
